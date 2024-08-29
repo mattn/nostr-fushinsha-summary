@@ -1,0 +1,6 @@
+secret.yaml
+k8s
+*.sh
+nostr-fushinsha-summary
+backup
+test.json
